@@ -1,0 +1,42 @@
+[{
+    "chefName": "Gordon Ramsay",
+    "chefPic" : "https://cdn.vox-cdn.com/thumbor/AjJ1Yx01Eu2YUMsWvBmcH8UBo6U=/0x0:3000x2147/1400x1400/filters:focal(1260x834:1740x1314):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/52781925/ramsay_HKlead.0.jpg",
+    "experience" : "22 Years",
+    "numberOfRecipes" : "200+",
+    "like": 180
+},
+{
+    "chefName": "Guy Fieri",
+    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Guy-Fieri.jpg.webp",
+    "experience" : "8 Years",
+    "numberOfRecipes" : "134",
+    "like": 110
+},
+{
+    "chefName": "Michael Caines",
+    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Michael-Caines.jpg.webp",
+    "experience" : "12 Years",
+    "numberOfRecipes" : "90",
+    "like": 127
+},
+{
+    "chefName": "Jamie Oliver",
+    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg.webp",
+    "experience" : "15 Years",
+    "numberOfRecipes" : "182",
+    "like": 192
+},
+{
+    "chefName": "Giada De Laurentiis",
+    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Giada-De-Laurentiis.jpg.webp",
+    "experience" : "11 Years",
+    "numberOfRecipes" : "167",
+    "like": 112
+},
+{
+    "chefName": "Wolfgang Puck",
+    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Wolfgang-Puck.jpg.webp",
+    "experience" : "28 Years",
+    "numberOfRecipes" : "200+",
+    "like": 270
+}]
