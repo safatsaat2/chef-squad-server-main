@@ -1,48 +1,56 @@
-[{
-    "chefName": "Gordon Ramsay",
-    "chefPic" : "https://cdn.vox-cdn.com/thumbor/AjJ1Yx01Eu2YUMsWvBmcH8UBo6U=/0x0:3000x2147/1400x1400/filters:focal(1260x834:1740x1314):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/52781925/ramsay_HKlead.0.jpg",
-    "experience" : "22 Years",
-    "numberOfRecipes" : "200+",
-    "like": 180,
-    "_id": 1
-},
-{
-    "chefName": "Guy Fieri",
-    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Guy-Fieri.jpg.webp",
-    "experience" : "8 Years",
-    "numberOfRecipes" : "134",
-    "like": 110,
-    "_id": 2
-},
-{
-    "chefName": "Michael Caines",
-    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Michael-Caines.jpg.webp",
-    "experience" : "12 Years",
-    "numberOfRecipes" : "90",
-    "like": 127,
-    "_id": 3
-},
-{
-    "chefName": "Jamie Oliver",
-    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg.webp",
-    "experience" : "15 Years",
-    "numberOfRecipes" : "182",
-    "like": 192,
-    "_id": 4
-},
-{
-    "chefName": "Giada De Laurentiis",
-    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Giada-De-Laurentiis.jpg.webp",
-    "experience" : "11 Years",
-    "numberOfRecipes" : "167",
-    "like": 112,
-    "_id": 5
-},
-{
-    "chefName": "Wolfgang Puck",
-    "chefPic" : "https://www.chefspencil.com/wp-content/uploads/Wolfgang-Puck.jpg.webp",
-    "experience" : "28 Years",
-    "numberOfRecipes" : "200+",
-    "like": 270,
-    "_id": 6
-}]
+[
+    {
+        "chefName": "Gordon Ramsay",
+        "chefPic": "https://cdn.vox-cdn.com/thumbor/AjJ1Yx01Eu2YUMsWvBmcH8UBo6U=/0x0:3000x2147/1400x1400/filters:focal(1260x834:1740x1314):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/52781925/ramsay_HKlead.0.jpg",
+        "experience": "22 Years",
+        "numberOfRecipes": "200+",
+        "like": 180,
+        "_id": "1",
+        "description": "London-based chef Gordon Ramsay has been honing his skills in Spanish cuisine since his early days in Barcelona. With a passion for creating traditional flavours with a modern twist, he has established himself as an acclaimed chef in the city."
+    },
+    {
+        "chefName": "Guy Fieri",
+        "chefPic": "https://www.chefspencil.com/wp-content/uploads/Guy-Fieri.jpg.webp",
+        "experience": "8 Years",
+        "numberOfRecipes": "134",
+        "like": 110,
+        "_id": "2",
+        "description": "Guy Fieri is one of the main reasons why the restaurant La-Firda is firmly established among the top 10 restaurants in the L.A. area. With a background in French gastronomy and years of experience in the industry, he has become one of the most respected chefs in town."
+    },
+    {
+        "chefName": "Michael Caines",
+        "chefPic": "https://www.chefspencil.com/wp-content/uploads/Michael-Caines.jpg.webp",
+        "experience": "12 Years",
+        "numberOfRecipes": "90",
+        "like": 127,
+        "_id": "3",
+        "description": "Chef Michael Caines is a culinary prodigy whose passion has taken him around the world. Experienced in French, Italian, and Asian cuisine, he has earned repute in the kitchen as well as recognition among the food critics."
+    },
+    {
+        "chefName": "Jamie Oliver",
+        "chefPic": "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg.webp",
+        "experience": "15 Years",
+        "numberOfRecipes": "182",
+        "like": 192,
+        "_id": "4",
+        "description": "Chef Jamie Oliver is a well-renowned pastry chef in California. She first rose to prominence when her Duckie Tuckie was awarded Best of Show at the San Diego Food and Beverage Festival. Since then she has been mastering her craft and designing tasty treats for the people."
+    },
+    {
+        "chefName": "Giada De Laurentiis",
+        "chefPic": "https://www.chefspencil.com/wp-content/uploads/Giada-De-Laurentiis.jpg.webp",
+        "experience": "11 Years",
+        "numberOfRecipes": "167",
+        "like": 112,
+        "_id": "5",
+        "description": "Executive Chef Giada De Laurentiis is the brains behind New York’s top-rated BombaiMaris. His indisputable talent in molecular gastronomy has made him a leader in the industry, adding an artistic twist to his modern American dishes."
+    },
+    {
+        "chefName": "Wolfgang Puck",
+        "chefPic": "https://www.chefspencil.com/wp-content/uploads/Wolfgang-Puck.jpg.webp",
+        "experience": "28 Years",
+        "numberOfRecipes": "200+",
+        "like": 270,
+        "_id": "6",
+        "description": "Wolfgang Puck is the executive chef at Rolls For Crolls, a popular sushi bar and restaurant in Seattle. With an unparalleled ability to craft amazing rolls, sushi dishes, and sashimi, he has become one of the most sought-after sushi chefs in the Pacific Northwest."
+    }
+]
